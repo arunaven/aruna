@@ -1,0 +1,2 @@
+this is first program
+file2 keeping it in gitignore
