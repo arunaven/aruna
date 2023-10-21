@@ -1,0 +1,2 @@
+this is sample program
+this file3 will be in gitignore
